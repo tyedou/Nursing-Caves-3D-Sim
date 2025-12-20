@@ -57,6 +57,9 @@ Once launched correctly within the physical room, the experience will render acr
 
 <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/d5b42746-c607-4d12-a51c-808367af4eb2" />
 
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/6a1d6244-d2be-4fae-8150-633854455f15" />
+
+
 Testing Simulator View
 ![WhatsApp Image 2025-12-19 at 4 10 56 PM](https://github.com/user-attachments/assets/81ae07f5-d7fe-4ae2-8dff-0ad8bbee0a93)
 
