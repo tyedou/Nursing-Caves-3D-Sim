@@ -12,7 +12,7 @@ If you would like to run the experience inside an immersive environment, please 
 
 #Installation
 
-To access and edit the project files, you will need Unity Hub, the Unity Editor, and the Immersive Interactive SDK. The following instructions outline the basic setup process.
+  To access and edit the project files, you will need Unity Hub, the Unity Editor, and the Immersive Interactive SDK. The following instructions outline the basic setup process.
 
 Install Unity Hub and Unity Editor
 
