@@ -41,11 +41,11 @@ ImmersiveManager,
 UI System,
 Stage
 
-Running the Experience in an Immersive Room
+  Running the Experience in an Immersive Room
 
   To run the project inside an immersive environment:
 
-To test the project, press the play button at the top of the editor to be taken to a in-built simulator provided by the SDK
+Test the project. Press the play button at the top of the editor to be taken to a in-built simulator provided by the SDK
 
 Build the project using File → Build Settings → Build.
 
