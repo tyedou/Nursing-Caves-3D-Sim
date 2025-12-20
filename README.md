@@ -17,15 +17,12 @@ If you would like to run the experience inside an immersive environment, please 
 Install Unity Hub and Unity Editor
 
 Go to https://unity.com/download
-.
 Download and install Unity Hub.
 Open Unity Hub and sign in with a Unity account.
+If you do not have an account, create one
 
-If you do not have an account, create one and follow Unity’s recommended security steps.
+In Unity Hub, go to the Installs tab and install a supported version of the Unity Editor for the SDK, specifically 2021.3.X
 
-In Unity Hub, go to the Installs tab and install a supported version of the Unity Editor.
-
-This project uses the Built-in Render Pipeline, so no additional render pipeline packages are required.
 Open the Project
 Clone or download this repository to your local machine.
 Open Unity Hub.
@@ -34,23 +31,22 @@ Unity will load the project and import all assets. This may take a few minutes o
 
 Immersive SDK Setup
 
-Ensure the Immersive Interactive SDK is installed and properly imported into the project.
+  Ensure the Immersive Interactive SDK is installed and properly imported into the project.
 
 Open the main scene included in the repository.
 
 Verify that the following objects exist in the scene:
 
 ImmersiveManager
-
 UI System
-
 Stage
 
-Use the Simulator Settings in the Unity Editor to preview the experience in a virtual room during development.
 
 Running the Experience in an Immersive Room
 
-To run the project inside an immersive environment:
+  To run the project inside an immersive environment:
+
+To test the project, press the play button at the top of the editor to be taken to a in-built simulator provided by the SDK
 
 Build the project using File → Build Settings → Build.
 
@@ -58,6 +54,6 @@ Navigate to the generated Run Shortcuts folder in the build directory.
 
 Launch the application using the appropriate .bat file that matches the physical room layout (e.g., Walls, All Walls, or Walls with Floor).
 
-Start Immersive Interactive and ensure it is configured to capture the running application.
+This will run a snapshot of what it looks like to run the immersive experience in the physical room.
 
-Once launched correctly, the experience will render across the immersive room surfaces.
+Once launched correctly within the physical room, the experience will render across the immersive room surfaces.
