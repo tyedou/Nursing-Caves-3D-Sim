@@ -53,4 +53,5 @@ This will run a snapshot of what it looks like to run the immersive experience i
 Once launched correctly within the physical room, the experience will render across the immersive room surfaces.
 
 
-<img width="1899" height="1025" alt="image" src="https://github.com/user-attachments/assets/c9bca5f8-01db-446a-bf5e-76455b6ccef7" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/89ea53ff-157e-4241-8b43-7f009aadd346" />
+
