@@ -1,4 +1,4 @@
-#Description
+##Description##
 
 
   Virtual Nursing Skills Lab (CAVE) is an immersive 3D training experience built in Unity for large-scale, multi-wall immersive environments. The project simulates a hospital wardroom where users can explore a realistic clinical space and interact with medical assets in a room-scale setting, designed to support nursing education and experiential learning.
@@ -10,7 +10,7 @@ Care has been taken to ensure proper real-world scale, camera alignment, and sur
 If you would like to view or modify the Unity project files, please see the Installation section below.
 If you would like to run the experience inside an immersive environment, please see the Usage section for build and runtime instructions.
 
-#Installation
+##Installation##
 
   To access and edit the project files, you will need Unity Hub, the Unity Editor, and the Immersive Interactive SDK. The following instructions outline the basic setup process.
 
@@ -52,6 +52,12 @@ Launch the application using the appropriate .bat file that matches the physical
 This will run a snapshot of what it looks like to run the immersive experience in the physical room.
 Once launched correctly within the physical room, the experience will render across the immersive room surfaces.
 
+##Visuals##
+
 
 <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/89ea53ff-157e-4241-8b43-7f009aadd346" />
+
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/d5b42746-c607-4d12-a51c-808367af4eb2" />
+
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/c0a475e0-ac91-4eef-bec9-21f997523549" />
 
