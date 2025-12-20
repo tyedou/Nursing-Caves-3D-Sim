@@ -43,16 +43,11 @@ Stage
 
   Running the Experience in an Immersive Room
 
-  To run the project inside an immersive environment:
+To run the project inside an immersive environment:
 
 Test the project. Press the play button at the top of the editor to be taken to a in-built simulator provided by the SDK
-
 Build the project using File → Build Settings → Build.
-
 Navigate to the generated Run Shortcuts folder in the build directory.
-
 Launch the application using the appropriate .bat file that matches the physical room layout (e.g., Walls, All Walls, or Walls with Floor).
-
 This will run a snapshot of what it looks like to run the immersive experience in the physical room.
-
 Once launched correctly within the physical room, the experience will render across the immersive room surfaces.
