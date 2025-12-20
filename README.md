@@ -37,10 +37,9 @@ Open the main scene included in the repository.
 
 Verify that the following objects exist in the scene:
 
-ImmersiveManager
-UI System
+ImmersiveManager,
+UI System,
 Stage
-
 
 Running the Experience in an Immersive Room
 
