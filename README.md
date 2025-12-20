@@ -60,6 +60,15 @@ Once launched correctly within the physical room, the experience will render acr
 <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/c0a475e0-ac91-4eef-bec9-21f997523549" />
 
 ##Future Improvements##
-While the current experience demonstrates the core immersive setup and interaction pipeline, there are several areas where the project can be expanded to improve realism, engagement, and training depth.
+  While the current experience demonstrates the core immersive setup and interaction pipeline, there are several areas where the project can be expanded to improve realism, engagement, and training depth.
 
 One major area for improvement is the overall liveliness of the scene. At present, the experience includes a single character holding an interactive element as a proof of concept. Adding additional character animations, idle behaviors, contextual menus, and multiple scenes would make the environment feel more active and engaging while standing inside the immersive room.
+
+Another major area for improvement is the expansion of training mechanics. The current setup uses a single window interaction as an example, but the same configuration could support much richer scenarios. For instance, multiple hospital beds could be populated with different patients, each presenting unique conditions or needs. This would allow trainees to practice prioritization, situational awareness, and decision-making in a shared space rather than focusing on a single interaction. Any number of other scenes can branch into any unique scenarios in order to keep nursing students on their tools while they train their skills
+
+##Acknowledgements##
+We would like to thank Professor Daniel Haehn for his guidance throughout the semester as students in CS460 and for introducing us to a wide range of computer graphics concepts. Through lectures, demonstrations, and course projects, he encouraged us to explore immersive, hands-on approaches to computer graphics and think beyond traditional screen-based experiences. His instruction helped shape the technical foundation and creative perspective that informed this project.
+
+We would also like to extend a special thanks to David Martinez from the College of Nursing at the University of Massachusetts Boston. David provided invaluable support by helping us test the experience in an immersive environment, troubleshoot technical issues, and navigate the practical challenges of working with large-scale immersive technology. His insight helped bridge the gap between technical implementation and real-world educational use.
+
+We would also like to acknowledge the broader development community for providing open-source resources, documentation, and tutorials that supported our work. Without Community-shared assets and youtube videos, we would not have been able to gain insight and expand our understanding of immersive development workflows that center around 2D and 3D experiences.  
